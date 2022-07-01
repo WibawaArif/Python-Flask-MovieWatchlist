@@ -1,0 +1,6 @@
+movie_library/.env
+__pycache__
+.venv
+.vscode
+*.pyc
+.DS_Store
