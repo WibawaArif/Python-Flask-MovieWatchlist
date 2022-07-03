@@ -55,8 +55,7 @@
 }
 
 .table__link:hover {
-  text-decoration: underline;
-  text-decoration-color: var(--accent-colour);
+  box-shadow: 0 5px 1px 0px var(--accent-colour);
 }
 
 .table__movieTitle {
